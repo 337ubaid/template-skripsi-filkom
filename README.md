@@ -1,4 +1,4 @@
-Template Skripsi menggunakan Word
+Template Skripsi Menggunakan Word
 by 337ubaid
 
 # Tinggal Pakai
